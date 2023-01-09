@@ -2,8 +2,8 @@
 
 var questions = [
     {
-        question: "what java"
-    } 
+        question: "what java", answer: "", possibel: ["", ""]
+    } ,
     
     {
         question: "what JS", answer: "gafiue", possible: ["hgoi", "gafiue", "", ""]
@@ -12,6 +12,9 @@ var questions = [
 
 var questionCounter = 0
 
+var answerCorrect = 0
+
 function answerQstn{
+    
 
 }
