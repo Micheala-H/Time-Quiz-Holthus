@@ -14,7 +14,11 @@ var questionCounter = 0
 
 var answerCorrect = 0
 
-function answerQstn{
+function quiz(){
     
+    
+}
+
+function displayResults(){
 
 }
